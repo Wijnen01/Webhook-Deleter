@@ -1,6 +1,6 @@
 # Webhook Deleter
 
-Python requests tool that uses the DELETE request header on a webhook\
+Python requests tool that uses the DELETE request header on a webhook to delete it via the URL itself
 ## Screenshots
 
 #### Successful deletion
